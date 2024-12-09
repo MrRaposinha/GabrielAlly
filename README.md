@@ -28,6 +28,9 @@
 2. **No Boss Assistance**:
    - Gabriel does not appear during boss fights, ensuring those challenges remain untouched.
 
+3. **Rooms Without Lockable Doors**:
+   - Gabriel will not spawn in rooms where waves occur without doors that lock, as his assistance is tied to the wave's progression mechanics.
+
 ---
 
 ## 🎮 What to Expect
